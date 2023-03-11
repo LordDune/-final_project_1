@@ -1,0 +1,15 @@
+D:\Docs\Programming\Code\C sharp project\Examples\final_progect_1\obj\Debug\net6.0\final_progect_1.csproj.AssemblyReference.cache
+D:\Docs\Programming\Code\C sharp project\Examples\final_progect_1\obj\Debug\net6.0\final_progect_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\Programming\Code\C sharp project\Examples\final_progect_1\obj\Debug\net6.0\final_progect_1.AssemblyInfoInputs.cache
+D:\Docs\Programming\Code\C sharp project\Examples\final_progect_1\obj\Debug\net6.0\final_progect_1.AssemblyInfo.cs
+D:\Docs\Programming\Code\C sharp project\Examples\final_progect_1\obj\Debug\net6.0\final_progect_1.csproj.CoreCompileInputs.cache
+D:\Docs\Programming\Code\C sharp project\Examples\final_progect_1\bin\Debug\net6.0\final_progect_1.exe
+D:\Docs\Programming\Code\C sharp project\Examples\final_progect_1\bin\Debug\net6.0\final_progect_1.deps.json
+D:\Docs\Programming\Code\C sharp project\Examples\final_progect_1\bin\Debug\net6.0\final_progect_1.runtimeconfig.json
+D:\Docs\Programming\Code\C sharp project\Examples\final_progect_1\bin\Debug\net6.0\final_progect_1.dll
+D:\Docs\Programming\Code\C sharp project\Examples\final_progect_1\bin\Debug\net6.0\final_progect_1.pdb
+D:\Docs\Programming\Code\C sharp project\Examples\final_progect_1\obj\Debug\net6.0\final_progect_1.dll
+D:\Docs\Programming\Code\C sharp project\Examples\final_progect_1\obj\Debug\net6.0\refint\final_progect_1.dll
+D:\Docs\Programming\Code\C sharp project\Examples\final_progect_1\obj\Debug\net6.0\final_progect_1.pdb
+D:\Docs\Programming\Code\C sharp project\Examples\final_progect_1\obj\Debug\net6.0\final_progect_1.genruntimeconfig.cache
+D:\Docs\Programming\Code\C sharp project\Examples\final_progect_1\obj\Debug\net6.0\ref\final_progect_1.dll
